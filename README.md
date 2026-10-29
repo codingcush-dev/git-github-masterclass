@@ -17,3 +17,4 @@ open index.html
 ## Contributors
 
 - codingcush-dev
+- kushkrg
